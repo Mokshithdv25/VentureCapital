@@ -55,37 +55,25 @@ Located in the **Crystal Ball** tab.
 
 ## 📸 Screenshots
 
-### Dashboard Overview
-<!-- Add your main dashboard screenshot here -->
-![Dashboard Overview](screenshots/dashboard-overview.png)
-*Main dashboard view showing all analytical tabs*
+### 💰 Exit Intelligence
+![Exit Intelligence](screenshots/EXIT%20INTELLIGENCE.png)
+*Capital efficiency frontier and time-to-liquidity analysis showing sector performance*
 
-### Market Trends Analysis
-<!-- Add screenshot of Market Trends tab -->
-![Market Trends](screenshots/market-trends.png)
-*Time-series analysis of funding velocity by sector*
+### 🌍 Geographic Stratigraphy
+![Geographic Stratigraphy](screenshots/GEOGRAPHY.png)
+*Global capital density visualization and emerging startup hubs*
 
-### Exit Intelligence
-<!-- Add screenshot of Exit Intelligence tab -->
-![Exit Intelligence](screenshots/exit-intelligence.png)
-*Capital efficiency frontier and time-to-liquidity analysis*
+### 🔬 Sector Deep Dive
+![Sector Deep Dive](screenshots/SECTOR%20DEEP%20DIVE.png)
+*Interactive sector analysis with median funding, exit rates, and top companies*
 
-### Geographic Stratigraphy
-<!-- Add screenshot of Geographic tab -->
-![Geographic Stratigraphy](screenshots/geographic-stratigraphy.png)
-*Global capital density visualization*
+### 🔮 Crystal Ball - Startup Success Predictor
+![Startup Success Meter](screenshots/STARTUP%20SUCCESS%20METER.png)
+*Machine learning-powered startup success predictor using Random Forest model*
 
-### Crystal Ball (ML Predictions)
-<!-- Add screenshot of Crystal Ball tab -->
-![Crystal Ball](screenshots/crystal-ball.png)
-*Machine learning-powered startup success predictor*
-
-### Unicorn Hunter
-<!-- Add screenshot of Unicorn Hunter tab -->
-![Unicorn Hunter](screenshots/unicorn-hunter.png)
-*Top investors and speed-to-valuation metrics*
-
-**Note**: To add screenshots, create a `screenshots/` folder in your repository and add your images there. Update the paths above accordingly.
+### 🦄 Unicorn Hunter
+![Unicorn Hunter](screenshots/UNICORN%20HUNTER.png)
+*Top investors in unicorns and speed-to-valuation metrics*
 
 ## How to Run
 
