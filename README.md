@@ -4,7 +4,7 @@
 
 **[👉 Try the Live App Here](https://venturecapital-ujqvnjxgynh5y9ckpesqzi.streamlit.app/)**
 
-Deployed on Streamlit Cloud | Status: ✅ Live
+Deployed on Streamlit Cloud | Status: Live
 
 ---
 
