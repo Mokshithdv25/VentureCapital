@@ -1,5 +1,13 @@
 # Vantage Point: Investment Intelligence Dashboard
 
+## 🚀 Live Demo
+
+**[👉 Try the Live App Here](https://venturecapital-ujqvnjxgynh5y9ckpesqzi.streamlit.app/)**
+
+Deployed on Streamlit Cloud | Status: ✅ Live
+
+---
+
 ## Project Overview
 **Vantage Point** is a Streamlit-based investment intelligence dashboard designed to identify high-potential sectors and geographies using historical VC data. It focuses on "Investment Thesis" generation rather than simple data exploration.
 
@@ -45,6 +53,40 @@ Located in the **Crystal Ball** tab.
 - **Machine Learning**: Uses a Random Forest model trained on 60,000+ historical startup outcomes (Operating vs Acquired/IPO).
 - **Interactive Prediction**: Input potential deal stats (Funding, Sector, Location) to get an "Exit Probability" score.
 
+## 📸 Screenshots
+
+### Dashboard Overview
+<!-- Add your main dashboard screenshot here -->
+![Dashboard Overview](screenshots/dashboard-overview.png)
+*Main dashboard view showing all analytical tabs*
+
+### Market Trends Analysis
+<!-- Add screenshot of Market Trends tab -->
+![Market Trends](screenshots/market-trends.png)
+*Time-series analysis of funding velocity by sector*
+
+### Exit Intelligence
+<!-- Add screenshot of Exit Intelligence tab -->
+![Exit Intelligence](screenshots/exit-intelligence.png)
+*Capital efficiency frontier and time-to-liquidity analysis*
+
+### Geographic Stratigraphy
+<!-- Add screenshot of Geographic tab -->
+![Geographic Stratigraphy](screenshots/geographic-stratigraphy.png)
+*Global capital density visualization*
+
+### Crystal Ball (ML Predictions)
+<!-- Add screenshot of Crystal Ball tab -->
+![Crystal Ball](screenshots/crystal-ball.png)
+*Machine learning-powered startup success predictor*
+
+### Unicorn Hunter
+<!-- Add screenshot of Unicorn Hunter tab -->
+![Unicorn Hunter](screenshots/unicorn-hunter.png)
+*Top investors and speed-to-valuation metrics*
+
+**Note**: To add screenshots, create a `screenshots/` folder in your repository and add your images there. Update the paths above accordingly.
+
 ## How to Run
 
 ### Local Deployment
@@ -81,7 +123,7 @@ Deploy your app to Streamlit Cloud in minutes:
    - Set the **Main file path** to: `app.py`
    - Click "Deploy"
 
-3. **Your app will be live** at: `https://your-app-name.streamlit.app`
+3. **Your app will be live** at: `https://venturecapital-ujqvnjxgynh5y9ckpesqzi.streamlit.app`
 
 **Note**: Streamlit Cloud automatically:
 - Installs dependencies from `requirements.txt`
