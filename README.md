@@ -56,7 +56,7 @@ Located in the **Crystal Ball** tab.
 ## 📸 Screenshots
 
 ### 💰 Exit Intelligence
-![Exit Intelligence](screenshots/EXIT%20INTELLIGENCE.png)
+![Exit Intelligence](screenshots/EXIT INTELLIGENCE.png)
 *Capital efficiency frontier and time-to-liquidity analysis showing sector performance*
 
 ### 🌍 Geographic Stratigraphy
@@ -64,15 +64,15 @@ Located in the **Crystal Ball** tab.
 *Global capital density visualization and emerging startup hubs*
 
 ### 🔬 Sector Deep Dive
-![Sector Deep Dive](screenshots/SECTOR%20DEEP%20DIVE.png)
+![Sector Deep Dive](screenshots/SECTOR DEEP DIVE.png)
 *Interactive sector analysis with median funding, exit rates, and top companies*
 
 ### 🔮 Crystal Ball - Startup Success Predictor
-![Startup Success Meter](screenshots/STARTUP%20SUCCESS%20METER.png)
+![Startup Success Meter](screenshots/STARTUP SUCCESS METER.png)
 *Machine learning-powered startup success predictor using Random Forest model*
 
 ### 🦄 Unicorn Hunter
-![Unicorn Hunter](screenshots/UNICORN%20HUNTER.png)
+![Unicorn Hunter](screenshots/UNICORN HUNTER.png)
 *Top investors in unicorns and speed-to-valuation metrics*
 
 ## How to Run
