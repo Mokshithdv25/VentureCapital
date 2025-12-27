@@ -47,6 +47,8 @@ Located in the **Crystal Ball** tab.
 
 ## How to Run
 
+### Local Deployment
+
 1. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
@@ -61,7 +63,33 @@ Located in the **Crystal Ball** tab.
    ./run_project.sh
    ```
 
+### Streamlit Cloud Deployment
+
+Deploy your app to Streamlit Cloud in minutes:
+
+1. **Push to GitHub** (if not already done):
+   ```bash
+   git add .
+   git commit -m "Prepare for Streamlit Cloud deployment"
+   git push origin main
+   ```
+
+2. **Go to [Streamlit Cloud](https://streamlit.io/cloud)**:
+   - Sign in with your GitHub account
+   - Click "New app"
+   - Select your repository: `Mokshithdv25/VentureCapital`
+   - Set the **Main file path** to: `app.py`
+   - Click "Deploy"
+
+3. **Your app will be live** at: `https://your-app-name.streamlit.app`
+
+**Note**: Streamlit Cloud automatically:
+- Installs dependencies from `requirements.txt`
+- Uses the configuration from `.streamlit/config.toml`
+- Deploys from the `main` branch (or your default branch)
+
 ## Files
 - `app.py`: Main dashboard logic and UI.
 - `utils.py`: Data cleaning and financial metric calculations.
 - `run_project.sh`: One-click launcher.
+- `.streamlit/config.toml`: Streamlit configuration for cloud deployment.
